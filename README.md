@@ -1,3 +1,6 @@
-# Bio
-Hi, I am Tyrone O'Garro Jr. I am a process oriented data analyst. Majority of my work consists of cleaning and analyzing dataets and making comprehensive and visuals and/or dashboards. I mostly work with SQL, Spreadsheets, and Tableau. However, I am interested in expanding my skill set to machine learning. Additionally, I am opem to collaborating on analysis projects with small to medium sized datasets.
+# About Me: 
+Currently Learning **Python** <br>
+I can be reached via email t.ogarro94@gmail.com <br>
 
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyrone-o-garro-jr-2b7714a4/)
