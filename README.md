@@ -1,6 +1,6 @@
 # About Me: 
 - Data Analyst
-- Expertise in data analysis and data visualization
+- Specialize in data analysis and data visualization
 - Skills: **Python**, **SQL**, **Python**, **Tableau** <br>
 
 ## Socials:
