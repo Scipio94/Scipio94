@@ -1,5 +1,5 @@
 # About Me: 
-- Data Analyst
+- Certified Data Analyst
 - Specialize in data analysis and data visualization
 - Skills: **Python**, **SQL**, **Python**, & **Tableau** <br>
 
